@@ -18,7 +18,7 @@ nav_order: 99
 
 ## How do I delete contacts?
 
-1. Go to your Friends page <img src="https://github.com/zomhelp/english/blob/zomhelp-en/assets/images/friends_icon.png?raw=true">  
+1. Go to your Friends page <img src="https://github.com/zomhelp/english/blob/zomhelp-en/assets/images/friends_icon.jpg?raw=true">  
     
 2. Press on the contact you want to delete   
    <p align="center">
@@ -58,10 +58,51 @@ nav_order: 99
 
 
 ## How do I send stickers?   
+1. Tap on this <img src="https://github.com/zomhelp/english/blob/zomhelp-en/assets/images/image_icon.jpg?raw=true" width="40">  emoji to the right of the text box.   
+
+2. Select from the wide array of stickers in the sticker packs.   
+   <p align="center">
+    <img src="https://github.com/zomhelp/english/blob/zomhelp-en/assets/images/sticker_page.gif?raw=true" width="250"/>
+   </p>  
+
+3. Tap on the sticker to send it.   
+   <p align="center">
+    <img src="https://github.com/zomhelp/english/blob/zomhelp-en/assets/images/sticker_img.gif?raw=true" width="250"/>
+   </p>  
+
+
 
 ## How do I start a group chat?
+1. Go Zom’s ‘discover’ page   
+   <p align="center">
+    <img src="https://github.com/zomhelp/english/blob/zomhelp-en/assets/images/group_chat1.jpg?raw=true" width="250"/>
+   </p>  
+
+2. Tap on ‘Create a Group’ and select a desired group name.   
+   <p align="center">
+    <img src="https://github.com/zomhelp/english/blob/zomhelp-en/assets/images/group_chat2.gif?raw=true" width="250"/>
+   </p>  
+3. Tap on ‘Add friends’ and select the contacts you want in your group    
+   <p align="center">
+    <img src="https://github.com/zomhelp/english/blob/zomhelp-en/assets/images/group_chat3.gif?raw=true" width="250"/>
+   </p>  
+4. You can now chat with your group members from the group chat   
+   <p align="center">
+    <img src="https://github.com/zomhelp/english/blob/zomhelp-en/assets/images/group_chat4.gif?raw=true" width="250"/>
+   </p>  
+
 
 ## How do I add friends in Zom?
+Zom has a few options for adding friends.   
+
+1. After you have created a Zom account you can now start adding your friends by clicking on the ‘+’ icon on the top right corner of your display.   
+   <p align="center">
+    <img src="https://github.com/zomhelp/english/blob/zomhelp-en/assets/images/add_frnd1.jpg?raw=true" width="250"/>
+   </p>  
+2. You will now be able to add your friends directly through their Zom ID or you can send them an invite link via other messaging apps.   
+   <p align="center">
+    <img src="https://github.com/zomhelp/english/blob/zomhelp-en/assets/images/add_frnd1.gif?raw=true" width="250"/>
+   </p>  
 
 ## How do I cancel a voice message while recording?
 
