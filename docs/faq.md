@@ -62,7 +62,7 @@ nav_order: 99
 
 2. Select from the wide array of stickers in the sticker packs.   
    <p align="center">
-    <img src="https://github.com/zomhelp/english/blob/zomhelp-en/assets/images/sticker_page.gif?raw=true" width="250"/>
+    <img src="https://github.com/zomhelp/english/blob/zomhelp-en/assets/images/sticker_page.jpg?raw=true" width="250"/>
    </p>  
 
 3. Tap on the sticker to send it.   
@@ -101,7 +101,7 @@ Zom has a few options for adding friends.
    </p>  
 2. You will now be able to add your friends directly through their Zom ID or you can send them an invite link via other messaging apps.   
    <p align="center">
-    <img src="https://github.com/zomhelp/english/blob/zomhelp-en/assets/images/add_frnd1.gif?raw=true" width="250"/>
+    <img src="https://github.com/zomhelp/english/blob/zomhelp-en/assets/images/add_frnd2.gif?raw=true" width="250"/>
    </p>  
 
 ## How do I cancel a voice message while recording?

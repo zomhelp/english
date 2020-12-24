@@ -2,7 +2,7 @@
 layout: default
 #title: Navigation Structure
 title: Features
-nav_order: 5
+nav_order: 2
 ---
 
 # Features
