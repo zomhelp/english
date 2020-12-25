@@ -104,8 +104,32 @@ Zom has a few options for adding friends.
     <img src="https://github.com/zomhelp/english/blob/zomhelp-en/assets/images/add_frnd2.gif?raw=true" width="250"/>
    </p>  
 
-## How do I cancel a voice message while recording?
+## How do I cancel a voice message while recording?   
+
+If you have started recording a message, but want to re-record or cancel it, 
+just swipe up towards the mic symbol <img src="https://github.com/zomhelp/english/blob/zomhelp-en/assets/images/voice_icon.jpg?raw=true" width="40">  which will automatically turn into a red bin, release it there.   
+   <p align="center">
+    <img src="https://github.com/zomhelp/english/blob/zomhelp-en/assets/images/cancel_voice.jpg?raw=true" width="250"/>
+   </p>  
+    <p align="center">
+    <img src="https://github.com/zomhelp/english/blob/zomhelp-en/assets/images/voice_page.gif?raw=true" width="250"/>
+   </p>    
+
 
 ## How do I start chatting? 
+
+1. Click the <img src="https://github.com/zomhelp/english/blob/zomhelp-en/assets/images/add_img.jpg?raw=true" width="40"> sign on the top right corner.  
+
+2. Choose a friend from your friend list.   
+
+3. Type your message in the text box at the bottom.   
+   <p align="center">
+    <img src="https://github.com/zomhelp/english/blob/zomhelp-en/assets/images/input_text.jpg?raw=true" width="250"/>
+   </p>  
+4. To send the message, tap the send icon. <img src="https://github.com/zomhelp/english/blob/zomhelp-en/assets/images/send_icon.jpg?raw=true" width="40">   
+   <p align="center">
+    <img src="https://github.com/zomhelp/english/blob/zomhelp-en/assets/images/choose_frnd.gif?raw=true" width="250"/>
+   </p>  
+
 
 
