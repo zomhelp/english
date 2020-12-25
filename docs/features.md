@@ -16,7 +16,6 @@ nav_order: 5
 {:toc}
 
 ---
-
 ## How do I send Stickers?
 
 Zom has a built-in list of unique  sticker packs that are available to all users, and we'll add more stickers over time. You can also create your own custom sticker packs or install sticker packs that you receive from other people.   
