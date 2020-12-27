@@ -17,7 +17,7 @@ nav_order: 2
 ---
 ## How do I send Stickers?
 
-Zom has a built-in list of unique  sticker packs that are available to all users, and we'll add more stickers over time. You can also create your own custom sticker packs or install sticker packs that you receive from other people.   
+Tsampa has a built-in list of unique  sticker packs that are available to all users, and we'll add more stickers over time. You can also create your own custom sticker packs or install sticker packs that you receive from other people.   
 
 ### Android:  
 
@@ -34,11 +34,11 @@ Zom has a built-in list of unique  sticker packs that are available to all users
 
 ## How do I start a group chat?
 
-This is a Zom group and is a  secure place where other third parties cannot get access to your messages . The Zom service has no record of your group memberships and group titles  
+This is a Tsampa group and is a  secure place where other third parties cannot get access to your messages . The Tsampa service has no record of your group memberships and group titles  
  
 ### Android  
 To start a group chat:  
-1. Go to the Zom “menu” and tap on the Zom Discover icon   
+1. Go to the Tsampa “menu” and tap on the Tsampa Discover icon   
     <p align="center">
     <img src="https://github.com/zomhelp/zomhelp.github.io/blob/master/assets/images/discover.gif?raw=true"/>
     </p> 
@@ -58,7 +58,7 @@ To start a group chat:
 
 ## How do I create a story
 
-While sending messages on Zom  you can create a story within the chat. This feature allows you to create a story by adding your photos or a link within the story, you can also edit your fonts and space them accordingly. If you want your story in a written format you do so with this feature which is in the chat:  
+While sending messages on Tsampa  you can create a story within the chat. This feature allows you to create a story by adding your photos or a link within the story, you can also edit your fonts and space them accordingly. If you want your story in a written format you do so with this feature which is in the chat:  
 
 To create a story:  
 
@@ -109,7 +109,7 @@ To create a story:
     <p align="center">
     <img src = "https://github.com/zomhelp/zomhelp.github.io/blob/master/assets/images/color_selector.jpg?raw=true" width="350"/>
     </p>
-7. The customized color will reflect immediately on your Zom app    
+7. The customized color will reflect immediately on your Tsampa app    
 
 ## How do delete messages?   
 

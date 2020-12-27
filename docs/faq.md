@@ -93,13 +93,13 @@ nav_order: 99
 
 
 ## How do I add friends in Zom?
-Zom has a few options for adding friends.   
+Tsampa has a few options for adding friends.   
 
-1. After you have created a Zom account you can now start adding your friends by clicking on the ‘+’ icon on the top right corner of your display.   
+1. After you have created a Tsampa account you can now start adding your friends by clicking on the ‘+’ icon on the top right corner of your display.   
    <p align="center">
     <img src="https://github.com/zomhelp/english/blob/zomhelp-en/assets/images/add_frnd1.jpg?raw=true" width="250"/>
    </p>  
-2. You will now be able to add your friends directly through their Zom ID or you can send them an invite link via other messaging apps.   
+2. You will now be able to add your friends directly through their Tsampa ID or you can send them an invite link via other messaging apps.   
    <p align="center">
     <img src="https://github.com/zomhelp/english/blob/zomhelp-en/assets/images/add_frnd2.gif?raw=true" width="250"/>
    </p>  
