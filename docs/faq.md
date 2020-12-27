@@ -118,6 +118,7 @@ just swipe up towards the mic symbol <img src="https://github.com/zomhelp/englis
 
 ## How do I start chatting? 
 
+
 1. Click the <img src="https://github.com/zomhelp/english/blob/zomhelp-en/assets/images/add_img.jpg?raw=true" width="40"> sign on the top right corner.  
 
 2. Choose a friend from your friend list.   
