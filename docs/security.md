@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Search
-nav_order: 99
+title: Security
+nav_order: 7
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.

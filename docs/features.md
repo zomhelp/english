@@ -2,7 +2,7 @@
 layout: default
 #title: Navigation Structure
 title: Features
-nav_order: 5
+nav_order: 2
 ---
 
 # Features
@@ -14,7 +14,6 @@ nav_order: 5
   {: .text-delta }
 1. TOC
 {:toc}
-
 ---
 ## How do I send Stickers?
 
